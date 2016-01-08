@@ -1,2 +1,2 @@
 # 3D-Chess-Board
-Renders a 3D model of a chess board
+Renders a 3D model of a chess board. Some of the code was skeleton code given before I started the project. I implemented specific subclasses of Material, as well as altered some of the code in the higher classes in the Material class. Plane, LightSource, Matrix functions, Quadric, ClippedQuadric, ClippedTriQuadric, the constructor of Scene, as well as firstIntersect() were all implemented by me. All other code was provided.
